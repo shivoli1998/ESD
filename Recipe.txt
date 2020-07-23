@@ -6,3 +6,5 @@ chicken
 eggs
 beef
 pork
+carrot
+leeks
