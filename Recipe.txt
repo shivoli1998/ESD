@@ -7,3 +7,13 @@ eggs
 beef
 carrot
 leeks
+
+Step by step process to make a fried recipe.
+cook rice
+cut chicken, beef into small pieces
+cut leeks and carrots into small pieces.
+add oil, spices and egg to a pan
+add friyed chicken and beef to the pan and stir it well untill it become tender
+add chopped vegetables to the pan
+add cooked rice
+stir it well in high heat.
